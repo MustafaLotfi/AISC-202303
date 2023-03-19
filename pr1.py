@@ -2,6 +2,8 @@ import cv2
 import numpy as np
 import time
 
+# Programmer: Mostafa Lotfi
+# Date: 1401/12/28
 
 t0 = time.time()
 
