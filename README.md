@@ -1,1 +1,1 @@
-# webcam-streaming
+# AI Super Course Practices and Codes
